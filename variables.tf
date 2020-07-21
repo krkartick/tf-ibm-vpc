@@ -18,3 +18,6 @@ variable "profile" {
   default = "bc1-2x8"
 }
 
+variable "ibm_bmx_api_key" {
+  default = ""
+}
