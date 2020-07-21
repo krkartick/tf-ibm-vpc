@@ -2,7 +2,7 @@ variable "ssh_key" {
 }
 
 locals {
-  BASENAME = "<name>"
+  BASENAME = "test-demo-vsi01"
   ZONE     = "us-south-1"
 }
 
